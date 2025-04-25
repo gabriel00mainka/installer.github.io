@@ -1,0 +1,15 @@
+{
+  "name": "Moje ESP8266",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "ule_v9_id9_h2.ino.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
